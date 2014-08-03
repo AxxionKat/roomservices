@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="android_device_motorola_falcon" path="device/motorola/falcon" remote="axxion" revision="axxion" />
+  <project name="anerikg/android_device_qcom_common" path="device/qcom/common" remote="github" revision="kitkat" />
+  <project name="thelegorom/android_device_motorola_qcom-common" path="device/motorola/qcom-common" remote="github" revision="lego" />
+  <project name="thelegorom/android_device_motorola_msm8226-common" path="device/motorola/msm8226-common" remote="github" revision="lego" />
+  <project name="thelegorom/android_kernel_motorola_msm8226" path="kernel/motorola/msm8226" remote="github" revision="cm-11.0" />
+  <project name="CyanogenMod/android_hardware_qcom_display-caf-new" path="hardware/qcom/display-caf-new" remote="github" revision="cm-11.0" />
+  <project name="CyanogenMod/android_hardware_qcom_media-caf-new" path="hardware/qcom/media-caf-new" remote="github" revision="cm-11.0" />
+  <project name="proprietary_vendor_motorola" path="vendor/motorola" remote="tm" revision="cm-11.0" />
+</manifest>  
