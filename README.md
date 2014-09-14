@@ -1,4 +1,4 @@
-device_local_manifests
+Manifests for our devices
 ======================
 
-Here are all ther oomservice.xml of the sources
+Remember to rename each xml to "roomservice.xml" without the " "
