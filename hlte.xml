@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Please do not manually edit this file-->
+<manifest>
+  <project name="AxxionKat/android_device_samsung_hlte" path="device/samsung/hlte" remote="github" revision="cm-11.0" />
+  <project name="android_device_samsung_hlte-common" path="device/samsung/hlte-common" remote="cm" revision="cm-11.0" />
+  <project name="android_device_samsung_msm8974-common" path="device/samsung/msm8974-common" remote="cm" revision="cm-11.0" />
+  <project name="android_kernel_samsung_hlte" path="kernel/samsung/hlte" remote="cm" revision="cm-11.0" />
+  <project name="proprietary_vendor_samsung" path="vendor/samsung" remote="tm" revision="cm-11.0" />
+  <project name="android_device_samsung_qcom-common" path="device/samsung/qcom-common" remote="cm" revision="cm-11.0" />
+  <project name="android_hardware_qcom_display-caf-new" path="hardware/qcom/display-caf-new" remote="cm" revision="cm-11.0" />
+  <project name="android_hardware_qcom_media-caf-new" path="hardware/qcom/media-caf-new" remote="cm" revision="cm-11.0" />
+</manifest>
